@@ -3,17 +3,17 @@ const name= 'Harun Dayan';
 const department='Hukuk';
 const salary='4000£'
 
-// const a='İsim: ' + name +'\n'+'Departmant: '+department+'\n'+'Maaş: '+salary;
+const a='İsim: ' + name +'\n'+'Departmant: '+department+'\n'+'Maaş: '+salary;
 
-// const a=`İsim :${name}\nDepartman :${department}\nMaaş :${salary}`; // template literal özelliğini kullandık
+const a=`İsim :${name}\nDepartman :${department}\nMaaş :${salary}`; // template literal özelliğini kullandık
 
-// const html= '<ul>'+
-// '<li>'+name+'</li>'+
-// '<li>'+department+'</li>'+
-// '<li>'+salary+'</li>'+
-// '</ul>';
+const html= '<ul>'+
+'<li>'+name+'</li>'+
+'<li>'+department+'</li>'+
+'<li>'+salary+'</li>'+
+'</ul>';
 
-// document.body.innerHTML= html;
+document.body.innerHTML= html;
 
 function a(){
     return'MErhaba';
