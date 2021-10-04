@@ -1,0 +1,21 @@
+[
+    {
+       "name":" Harun Dayan",
+      "Department":"Bilişim",
+      "salary":4000
+    
+    },
+    {
+       "name":" Ali Dorukhan Dayan",
+      "Department":"Bilişim",
+      "salary":40000
+    
+    },
+    {
+       "name":" Aylin Dayan",
+      "Department":"Sağlık",
+      "salary":6000
+    
+    }
+]
+
